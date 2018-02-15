@@ -148,6 +148,6 @@ Guzzetti, F., Malamud, B.D., Turcotte, D.L. and Reichenbach, P., 2002. Power-law
 
 Stark, C.P. and Guzzetti, F., 2009. Landslide rupture and the probability distribution of mobilized debris volumes. Journal of Geophysical Research: Earth Surface, 114(F2). DOI:10.1029/2008JF001008
 
-Tanyas, H., Allstadt, K.E., and van Westen, C.J. (in press). An updated method for estimating landslide-event magnitude. Earth Surface Processes and Landforms.
+Tanyas, H., Allstadt, K.E., and van Westen, C.J., 2018. An updated method for estimating landslide-event magnitude. Earth Surface Processes and Landforms. DOI: 10.1002/esp.4359
 
 Van Den Eeckhaut, M., Poesen, J., Govers, G., Verstraeten, G. and Demoulin, A., 2007. Characteristics of the size distribution of recent and historical landslides in a populated hilly region. Earth and Planetary Science Letters, 256(3): 588-603. DOI:10.1016/j.epsl.2007.01.040
